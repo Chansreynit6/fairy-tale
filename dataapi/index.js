@@ -100,4 +100,3 @@ function fetchData() {
 
 // Call the function to fetch and display data
 fetchData();
-

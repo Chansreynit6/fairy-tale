@@ -1,0 +1,45 @@
+body{
+   background-color: antiquewhite;
+   height: auto;
+}
+.container{
+   background-color: white;
+   height: 170vh;
+}
+.social-icon{
+   line-height: 90px;
+
+}
+.social-icon a{
+    color: black;
+    font-size: 25px;
+}
+.social-icon a{
+ text-decoration: none;
+}
+.social-icon li{
+   list-style-type: none;
+}
+label{
+   font-size: 25px;
+}
+input{
+   height: 50px;
+   width : 40vh;
+}
+button{
+   margin-top: 50px;
+   background-color: rgb(106, 199, 242);
+   width: 100px;
+   height: 40px;
+   border-radius: 5px;
+}
+.background-contact{
+   background-color: #eed0ea;
+   height: 60vh;
+   width: 60vh;
+   align-items: center;
+   justify-content: center; 
+   display: flex;
+}
+

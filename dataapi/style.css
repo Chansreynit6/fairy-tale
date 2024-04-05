@@ -1,9 +1,21 @@
 *{
     margin: auto;
     padding: 0;
-    color: #EA18EE;
+    /* color: #EA18EE; */
     background-color: #FFFFEC;
 }
+.form{
+    color: #EA18EE;
+    text-align: end;
+     margin-top: 40px;
+
+  }
+  .all{
+    width: 75%;
+    margin: auto;
+    overflow: hidden;
+  }
+  
 #card {
   width: 100%;
   overflow: hidden;
@@ -43,7 +55,7 @@
   width: 100%;
   display: flex;
   justify-content:space-between;
-  background-color: #EA18EE;
+  /* background-color: #EA18EE; */
 }
 .box1 p{
   width: 200px;
